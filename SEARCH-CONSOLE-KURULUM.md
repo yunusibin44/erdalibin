@@ -7,4 +7,4 @@
 5. Dizine ekleme, Core Web Vitals, Manuel İşlemler ve Güvenlik Sorunları raporlarını kontrol edin.
 6. İlk 90 gün haftalık olarak sorgu, gösterim, tıklama, CTR ve ortalama konumu kaydedin.
 
-Sitemap: https://yunusibin44.github.io/erdalibin/sitemap.xml
+Sitemap: https://uyducuerdalusta.site/sitemap.xml
