@@ -1,10 +1,9 @@
-Anahtar kelime,Arama niyeti,Hedef sayfa,Tip,H1,Potansiyel
-"Mersin uyducu","Hizmet/yerel","mersin-uyducu.html","Birincil","Mersin Uyducu ve Yerinde Uydu Servisi","Yüksek"
-"Mersin televizyon tamiri","Hizmet/yerel","mersin-televizyon-tamiri.html","Birincil","Mersin Televizyon Tamiri ve TV Arıza Tespiti","Yüksek"
-"Mersin kamera sistemleri","Kurulum/yerel","mersin-kamera-sistemleri.html","Birincil","Mersin Kamera Sistemleri ve Güvenlik Kamerası","Yüksek"
-"uydu sinyal yok","Sorun/çözüm","uydu-sinyal-yok.html","Birincil","Uydu Sinyal Yok Sorunu","Orta"
-"çanak anten montajı","Kurulum","canak-anten-montaji.html","Birincil","Mersin Çanak Anten Montajı","Orta"
-"merkezi uydu sistemi","Hizmet","merkezi-uydu-sistemleri.html","Birincil","Mersin Merkezi Uydu Sistemleri","Orta"
-"TV ses var görüntü yok","Sorun/çözüm","tv-ses-var-goruntu-yok.html","Birincil","TV’de Ses Var Görüntü Yok","Orta"
-"televizyon açılmıyor","Sorun/çözüm","televizyon-acilmiyor.html","Birincil","Televizyon Açılmıyor","Orta"
-"güvenlik kamerası kurulumu","Kurulum","guvenlik-kamerasi-kurulumu.html","Birincil","Güvenlik Kamerası Kurulumu","Orta"
+﻿Anahtar Kelime Kümesi,Ana Hedef Sayfa,Arama Niyeti
+Mersin uyducu; uyducu; en yakın uyducu,https://uyducuerdalusta.site/,İşletme / genel yerel servis
+uydu tamircisi; Mersin uydu servisi; Toroslar uyducu,https://uyducuerdalusta.site/mersin-uyducu.html,Uydu tamiri / çağrı
+çanak anten; çanak anten montajı; çanak anten tamiri,https://uyducuerdalusta.site/canak-anten-montaji.html,Çanak montajı / tamiri
+kameracı; Mersin kameracı; güvenlik kameracısı; kamera sistemleri,https://uyducuerdalusta.site/mersin-kamera-sistemleri.html,Güvenlik kamera servisi (fotoğraf/video çekimi değil)
+IP kamera montajı; güvenlik kamerası kurulumu,https://uyducuerdalusta.site/guvenlik-kamerasi-kurulumu.html,Kamera teknik rehber
+televizyon tamircisi; Mersin televizyon tamiri,https://uyducuerdalusta.site/mersin-televizyon-tamiri.html,TV servis
+sinyal yok; uyduda sinyal yok,https://uyducuerdalusta.site/uydu-sinyal-yok.html,Arıza çözüm rehberi
+merkezi uydu; multiswitch,https://uyducuerdalusta.site/merkezi-uydu-sistemleri.html,Apartman uydu altyapısı
