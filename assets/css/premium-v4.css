@@ -28,3 +28,7 @@ footer{padding:72px clamp(24px,6vw,92px) 30px;display:grid;grid-template-columns
 .reveal,.reveal.from-left,.reveal.from-right{opacity:1;transform:none}
 @media(max-width:900px){.seo-footer{grid-template-columns:1fr 1fr}.seo-footer-links{grid-column:1/-1}}
 @media(max-width:720px){.seo-services{padding:54px 18px}.seo-service-grid,.seo-columns{grid-template-columns:1fr}.seo-service-grid a,.seo-columns article{padding:22px}.seo-mini-faq{padding:22px 19px}.seo-footer{grid-template-columns:1fr}.seo-footer-links{grid-column:auto}}
+
+/* Pages, including headings and below-the-fold content, remain readable without JS animations. */
+html { scroll-padding-top: 100px; }
+a:focus-visible, button:focus-visible { outline: 3px solid #12674d; outline-offset: 4px; }
